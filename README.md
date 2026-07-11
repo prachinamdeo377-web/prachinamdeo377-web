@@ -17,18 +17,12 @@
 
 🚀 Building AI Projects
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=prachinamdeo377-web&show_icons=true&theme=tokyonight">
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prachinamdeo377-web&theme=tokyonight">
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,flask,fastapi,mysql,mongodb,tensorflow,pytorch,opencv,git,github,vscode,docker,linux" />
+
 </p>
 ### 🏆 Certifications
 
@@ -47,5 +41,16 @@
 ### ✋ Hand Gesture Recognition
 ### Real time clg Bus tracking app
 <p align="center">
-  <img src="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake.svg">
+  <img alt="github contribution snake"
+    src="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake.svg">
+</picture>
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachinamdeo377-web&theme=tokyo-night"/>
 </p>
