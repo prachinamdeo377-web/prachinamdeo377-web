@@ -63,11 +63,11 @@ Become an AI Engineer building real-world intelligent systems.
 # 📊 GitHub Statistics
 
 <p align="center">
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=prachinamdeo377-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=prachinamdeo377-web&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachinamdeo377-web&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachinamdeo377-web&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
