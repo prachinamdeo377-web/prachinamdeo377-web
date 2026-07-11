@@ -9,9 +9,8 @@ AI & Machine Learning Student | Python Developer | Computer Vision Enthusiast | 
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Computer+Vision+Enthusiast;Deep+Learning+Explorer;Full+Stack+AI+Developer;Future+AI+Engineer+🚀" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Computer+Vision+Enthusiast;Deep+Learning+Explorer;Full+Stack+AI+Developer;Future+AI+Engineer">
 </p>
-
 ---
 
 <p align="center">
