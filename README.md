@@ -1,210 +1,125 @@
+# Hi 👋, I'm Prachi Namdeo
+
+```{=html}
 <p align="center">
-<img src="Blue and Dark Modern Tech LinkedIn Banner (1).png" width="100%">
+```
+`<img src="Blue and Dark Modern Tech LinkedIn Banner (1).png" width="100%">`{=html}
+```{=html}
 </p>
-
-<h1 align="center">Hi 👋, I'm Prachi Namdeo</h1>
-
-<h3 align="center">
-AI & Machine Learning Student | Python Developer | Computer Vision Enthusiast | Full Stack Developer
-</h3>
-
+```
+```{=html}
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Computer+Vision+Enthusiast;Deep+Learning+Explorer;Full+Stack+AI+Developer;Future+AI+Engineer">
+```
+`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Computer+Vision+Enthusiast;Deep+Learning+Explorer;Full+Stack+AI+Developer;Future+AI+Engineer" />`{=html}
+```{=html}
 </p>
----
-
+```
+```{=html}
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=prachinamdeo377-web&label=Profile+Views&color=blueviolet&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/prachinamdeo377-web?label=Followers&style=for-the-badge&color=orange"/>
-<img src="https://img.shields.io/github/stars/prachinamdeo377-web?affiliations=OWNER&style=for-the-badge&color=yellow"/>
+```
+`<img src="https://komarev.com/ghpvc/?username=prachinamdeo377-web&style=for-the-badge&color=blueviolet"/>`{=html}
+`<img src="https://img.shields.io/github/followers/prachinamdeo377-web?style=for-the-badge&color=blue"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Student (Artificial Intelligence & Machine Learning)
+-   🎓 B.Tech Artificial Intelligence & Machine Learning Student
+-   🏫 LNCT University
+-   💡 Passionate about AI, ML, Computer Vision and Full Stack AI
+-   🌱 Currently learning Deep Learning, FastAPI, LLMs and React
+-   🎯 Goal: Become an AI Engineer
 
-🏫 LNCT University
-
-🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- FastAPI
-- Large Language Models (LLMs)
-- React.js
-
-💡 Interested in
-
-- Artificial Intelligence
-- Computer Vision
-- Full Stack AI Applications
-- Real-Time Systems
-- Generative AI
-
-🎯 Goal
-
-Become an AI Engineer building real-world intelligent systems.
-
----
+------------------------------------------------------------------------
 
 # 💻 Tech Stack
 
+```{=html}
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,flask,fastapi,mysql,mongodb,tensorflow,pytorch,opencv,git,github,vscode,docker,linux" />
-
+```
+`<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css,react,nodejs,flask,fastapi,mysql,mongodb,tensorflow,pytorch,opencv,git,github,vscode,docker,linux"/>`{=html}
+```{=html}
 </p>
+```
 
----
+------------------------------------------------------------------------
 
 # 📊 GitHub Statistics
 
+```{=html}
 <p align="center">
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=prachinamdeo377-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachinamdeo377-web&layout=compact&theme=tokyonight&hide_border=true" />
+```
+`<img height="180" src="https://github-readme-stats.vercel.app/api?username=prachinamdeo377-web&show_icons=true&theme=tokyonight&hide_border=true"/>`{=html}
+`<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prachinamdeo377-web&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 # 🔥 GitHub Streak
 
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prachinamdeo377-web&theme=tokyonight&hide_border=true"/>
-
+```
+`<img src="https://github-readme-streak-stats.herokuapp.com/?user=prachinamdeo377-web&theme=tokyonight&hide_border=true"/>`{=html}
+```{=html}
 </p>
+```
+# 📈 Activity Graph
 
----
-
-# 📈 Contribution Graph
-
+```{=html}
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachinamdeo377-web&theme=tokyo-night"/>
-
+```
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=prachinamdeo377-web&theme=tokyo-night"/>`{=html}
+```{=html}
 </p>
-
----
-
+```
 # 🐍 Contribution Snake
 
+```{=html}
 <p align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)"
-srcset="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake-dark.svg">
-
-<source media="(prefers-color-scheme: light)"
-srcset="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake.svg">
-
-<img alt="Snake Animation"
-src="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake.svg">
-
-</picture>
-
+```
+`<picture>`{=html}
+`<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake-dark.svg">`{=html}
+`<img src="https://raw.githubusercontent.com/prachinamdeo377-web/prachinamdeo377-web/output/github-snake.svg">`{=html}
+`</picture>`{=html}
+```{=html}
 </p>
+```
+# 🏆 Certifications
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prachinamdeo377-web&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# 📜 Certifications
-
-🏅 Cisco – Introduction to Modern AI
-
-🏅 Cisco – Data Analytics Essentials
-
-🏅 Cisco – Introduction to IoT
-
-🏅 Internshala – Web Development
-
-🏅 Google Cloud Arcade
-
-🏅 Infosys Springboard
-
----
+-   Cisco -- Introduction to Modern AI
+-   Cisco -- Data Analytics Essentials
+-   Cisco -- Introduction to IoT
+-   Internshala -- Web Development
+-   Google Cloud Arcade
+-   Infosys Springboard
 
 # 🚀 Featured Projects
 
-## 🚦 RoadWise AI
-
-AI-powered road damage detection system using Computer Vision.
-
----
-
-## 🛒 Smart Shopping Cart
-
-Barcode Scanner + Flask + React + OpenCV + MySQL
-
----
-
-## 📄 Legal Document Analyzer
-
-LLM + RAG based legal document understanding.
-
----
-
-## 🚌 Real-Time College Bus Tracking
-
-Live GPS Tracking with ETA.
-
----
-
-## ✋ Hand Gesture Recognition
-
-OpenCV + MediaPipe based gesture control.
-
----
-
-## 🏠 House Price Prediction
-
-Machine Learning Regression Project.
-
----
+-   🚦 RoadWise AI
+-   🛒 Smart Shopping Cart
+-   📄 AI Legal Document Analyzer
+-   🚌 Real-Time College Bus Tracking
+-   ✋ Hand Gesture Recognition
+-   🏠 House Price Prediction
 
 # 🌐 Connect With Me
 
+Replace with your own links:
+
+-   LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+-   Email: YOUR_EMAIL@gmail.com
+
+------------------------------------------------------------------------
+
+> *"Building intelligent solutions, one project at a time."*
+
+```{=html}
 <p align="center">
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/prachinamdeo377-web">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
+```
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d4ff&height=120&section=footer"/>`{=html}
+```{=html}
 </p>
-
----
-
-# 💡 Favorite Quote
-
-> "Artificial Intelligence isn't replacing humans; it's empowering those who learn it."
-
----
-
-<p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,100:00d4ff&height=120&section=footer"/>
-
-</p>
+```
